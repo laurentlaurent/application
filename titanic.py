@@ -10,7 +10,6 @@ import seaborn as sns
 import time
 import os
 
-#os.chdir('/home/coder/work/ensae-reproductibilite-application')
 TrainingData = pd.read_csv('data.csv')
 
 TrainingData.head()
