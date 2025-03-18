@@ -2,7 +2,6 @@ pandas
 PyYAML
 scikit-learn
 python-dotenv
-<<<<<<< HEAD
 loguru
 pyarrow
 uvicorn

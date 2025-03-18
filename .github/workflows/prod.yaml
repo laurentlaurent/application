@@ -28,4 +28,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: laurenthvk/application:latest
+          tags: laurenthkv/application:latest
